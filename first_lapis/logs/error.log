@@ -1,0 +1,4 @@
+2014/11/08 13:19:25 [alert] 33571#0: lua_code_cache is off; this will hurt performance in /Users/christopheralexander/Lapis_sites/first_lapis/nginx.conf.compiled:15
+2014/11/08 13:20:03 [alert] 33582#0: lua_code_cache is off; this will hurt performance in /Users/christopheralexander/Lapis_sites/first_lapis/nginx.conf.compiled:15
+2014/11/08 13:59:00 [alert] 38345#0: lua_code_cache is off; this will hurt performance in /Users/christopheralexander/Lapis_sites/first_lapis/nginx.conf.compiled:15
+2014/11/08 14:05:19 [alert] 38459#0: lua_code_cache is off; this will hurt performance in /Users/christopheralexander/Lapis_sites/first_lapis/nginx.conf.compiled:15
